@@ -5,7 +5,7 @@ body {
     
 }
 /* apply styles to <header> */
-header {
+  header {
     padding: 20px 35px;
     background-color: #39a6b2;
   }
@@ -36,8 +36,9 @@ header {
     font-weight: lighter;
     font-size: 22px;
   }
+/* End Header */
 
-  * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -94,9 +95,9 @@ header {
     margin: 0;
   }
   
-  .hero-form p {
+.hero-form p {
     margin: 5px 0 15px 0;
-  }
+}
   
   .form-input {
     border: 1px solid #024e76;
